@@ -1,4 +1,4 @@
-<img src="" alt="" />
+<img src="https://github.com/xNoJustice/react-recipe-app/blob/0ddbdcf1809f5b31fd789e795fcfee55e3a057b7/recipe-app.gif" alt="" />
 
 # Getting Started with Create React App
 
